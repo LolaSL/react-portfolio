@@ -1,0 +1,50 @@
+import React from "react";
+import { useParams } from "react-router-dom";
+import { ProjectList } from "../helpers/ProjectList";
+import GitHubIcon from "@material-ui/icons/GitHub";
+import "../styles/ProjectDisplay.css";
+
+function ProjectDisplay() {
+  const { id } = useParams();
+  const project = ProjectList[id];
+  return (
+    <div className="project">
+      <h1> {project.name}</h1>
+      <img src={project.image} />
+      <p>
+        <b>Skills:</b> {project.skills}
+      </p>
+      <GitHubIcon />
+    </div>
+  );
+}
+
+export default ProjectDisplay;
+.project {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .project h1 {
+    margin-top: 50px;
+    color: #3e497a;
+    font-size: 35px;
+  }
+  .project img {
+    width: 700px;
+    border-radius: 10px;
+  }
+  
+  .project p {
+    font-size: 40px;
+    color: #3e497a;
+  }
+  
+  .project svg {
+    font-size: 60px;
+    color: #3e497a;
+  }
