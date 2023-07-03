@@ -1,0 +1,24 @@
+.experience{
+    color: #3e497a;
+}
+ .vertical-timeline-element--education h3{
+    font-size:40px;
+} 
+@media only screen and (max-width: 1300px) {
+    .vertical-timeline-element--education h3{
+        font-size: 34px;
+    }
+
+}
+  @media only screen and (max-width: 800px) {
+    .vertical-timeline-element--education h3{
+        font-size: 30px;
+    }
+    }
+  
+
+  @media only screen and (max-width: 600px) {
+    .vertical-timeline-element--education h3{
+        font-size:28px;
+    }
+} 

@@ -1,0 +1,120 @@
+.home {
+    width: 100%;
+    align-items: center;
+    font-family: "Helvetica Neue",Helvetica;
+    color: #3e497a;
+ 
+
+  }
+  
+  .about {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #166088;
+    color: #f0f0f0;
+  }
+  
+  .about h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    color: ;
+    height: 50px;
+    margin-bottom: 25px;
+  }
+  
+  .about .prompt {
+    width: 50%;
+    font-size: 30px;
+  }
+   .prompt p {
+    font-size: 20px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    padding:20px;
+   }
+  .skills {
+    font-size: 35px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .skills h2 {
+    color: #3e497a;
+    font-size: 44px;
+    margin-bottom: 40px;
+  }
+  .skills h3 {
+    color: #3e497a;
+    font-size: 34px;
+    margin-top: 50px;;
+  }
+  
+  .skills .list {
+    list-style: none;
+    width: 60%;
+  }
+  
+  .list span {
+    font-size: 20px;
+  }
+  
+
+    .about .prompt {
+      margin-top: 10px;
+      font-size: 20px;
+      width: 70%;
+    }
+  
+    .skills {
+      text-align: center;
+    }
+
+
+    @media only screen and (max-width: 1300px) {
+      .about h2 {
+        font-size: 48px;
+      }
+    
+  }
+    @media only screen and (max-width: 800px) {
+      .about h2 {
+        font-size: 38px;
+      }
+    
+  }
+    @media only screen and (max-width: 600px) {
+      .about h2 {
+        font-size: 28px;
+      }
+      .about .prompt {
+        margin-top: 10px;
+        font-size: 20px;
+        width: 80%;
+      }
+    
+      .skills {
+        text-align: center;
+      }
+      .list {
+        padding: 20px;
+      }
+    
+      .skills h2 {
+        font-size: 40px;
+        margin-bottom: 20px;
+      }
+      .skills h3 {
+        font-size: 30px;
+        margin-top:30px;
+      }
+  }

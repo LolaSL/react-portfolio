@@ -1,0 +1,21 @@
+.education-title{
+    color: black;
+}
+@media only screen and (max-width: 1300px) {
+    .e h2 {
+      font-size: 48px;
+    }
+  
+}
+  @media only screen and (max-width: 800px) {
+    .about h2 {
+      font-size: 38px;
+    }
+  
+}
+  @media only screen and (max-width: 600px) {
+    .about h2 {
+      font-size: 28px;
+    }
+  
+}

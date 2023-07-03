@@ -1,0 +1,32 @@
+
+.education-title{
+    color: black;
+}
+@media only screen and (max-width: 1300px) {
+    .title {
+      font-size: 38px;
+    }
+    .vertical-timeline-element-education {
+        font-size: 20px;
+      }
+
+
+}
+  @media only screen and (max-width: 800px) {
+    .title {
+        font-size: 30px;
+      }
+      .vertical-timeline-element-education {
+        font-size: 20px;
+      }
+    }
+  
+
+  @media only screen and (max-width: 600px) {
+    .title {
+      font-size: 24px;
+    }
+    .education {
+        font-size: 20px;
+      }
+}
