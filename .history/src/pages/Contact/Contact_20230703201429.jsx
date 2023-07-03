@@ -13,7 +13,7 @@ const ContactForm = () => {
         "MY_SERVICE",
         "MY-TEMPLATE",
         form.current,
-        "MY-KEY"
+        "MY-"
       )
       .then(
         (result) => {
