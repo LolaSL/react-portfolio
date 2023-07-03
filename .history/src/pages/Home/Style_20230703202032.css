@@ -83,7 +83,6 @@
     @media only screen and (max-width: 1300px) {
       .about h1 {
         font-size: 57px;
-        padding:25px;
       }
       .about h2 {
         font-size: 48px;
@@ -93,7 +92,6 @@
     @media only screen and (max-width: 800px) {
       .about h1 {
         font-size: 50px;
-        padding: 15px;
       }
       .about h2 {
         font-size: 38px;
@@ -103,7 +101,7 @@
     @media only screen and (max-width: 600px) {
       .about h1 {
         font-size: 44px;
-        padding: 10px;
+        
       }
       .about h2 {
         font-size: 28px;
