@@ -5,7 +5,8 @@ const Home = () => {
   return (
  
     <div className="home">
-      <div className="about">
+     
+      <div className="about">  <div className="gradient">
         <h1> Hi, My Name is Lola Shepota</h1>
         <div className="prompt">
           <p>
@@ -15,7 +16,7 @@ const Home = () => {
             skill set in creating new ideas with fantastic customer experiences.
           </p>
         </div>
-      </div>
+      </div></div>
       <div className="skills">
         <h2> Skills</h2>
         <ol className="list">

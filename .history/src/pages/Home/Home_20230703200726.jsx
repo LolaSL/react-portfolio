@@ -3,8 +3,9 @@ import "./Style.css";
 
 const Home = () => {
   return (
- 
+   <div className="gradient">
     <div className="home">
+     
       <div className="about">
         <h1> Hi, My Name is Lola Shepota</h1>
         <div className="prompt">
@@ -39,8 +40,8 @@ const Home = () => {
           </li>
         </ol>
       </div>
-      </div>
-      )
+    </div>
+  );
 };
 
 export default Home;

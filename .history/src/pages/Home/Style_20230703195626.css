@@ -3,7 +3,9 @@
     align-items: center;
     font-family: "Helvetica Neue",Helvetica;
     color: #3e497a;
-   }
+ 
+
+  }
   
   .about {
     width: 100%;
@@ -81,26 +83,20 @@
 
 
     @media only screen and (max-width: 1300px) {
-      .about h1 {
-        font-size: 57px;
-      }
       .about h2 {
         font-size: 48px;
       }
     
   }
     @media only screen and (max-width: 800px) {
-      .about h1 {
-        font-size: 50px;
-      }
       .about h2 {
         font-size: 38px;
       }
     
   }
     @media only screen and (max-width: 600px) {
-      .about h1 {
-        font-size: 44px;
+      .about h {
+        font-size: 28px;
       }
       .about h2 {
         font-size: 28px;
@@ -128,6 +124,3 @@
         margin-top:30px;
       }
   }
-
-  
-  

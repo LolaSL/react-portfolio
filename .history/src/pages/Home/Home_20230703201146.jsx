@@ -14,7 +14,7 @@ const Home = () => {
             loyalty, dedication, and hardworking ethics. I love to contribute my
             skill set in creating new ideas with fantastic customer experiences.
           </p>
-        </div>
+        </div>git
       </div>
       <div className="skills">
         <h2> Skills</h2>
