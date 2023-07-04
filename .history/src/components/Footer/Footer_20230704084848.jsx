@@ -10,13 +10,13 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <Link to='https://www.instagram.com/shepota68' ><InstagramIcon /></Link>
-        <Link to='https://www.facebook.com/lola.shepota' ><FacebookIcon /></Link>
-        <Link to='https://www.linkedin.com/in/lola-s-2aba6340-lo' ><LinkedInIcon /></Link>
-        <Link to='https://github.com/LolaSL' ><GitHubIcon /></Link>
+        <Link href='https://www.instagram.com/shepota68' ><InstagramIcon /></Link>
+        <a href='https://www.facebook.com/lola.shepota' ><FacebookIcon /></a>
+        <a href='https://www.linkedin.com/in/lola-s-2aba6340-lo' ><LinkedInIcon /></a>
+        <a href='https://github.com/LolaSL' ><GitHubIcon /></a>
       </div>
       <div className="copyright">
-        <p>&copy; {new Date().getFullYear()} Copyright: React-Portfolio</p>
+        <p>&copy; {new Date().getFullYear()} Copyright: React-Portfolio.</p>
       </div>
     </div>
   );

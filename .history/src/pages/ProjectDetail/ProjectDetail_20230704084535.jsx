@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import { Link } from "react-router-dom";
+import 
 import { ProjectList } from "../../helpers/ProjectList.js";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import "./Style.css";
@@ -15,7 +15,7 @@ function ProjectDetail() {
       <h3>
         <b>Skills:</b> {project.skills}
       </h3>
-      <h4><Link to={project.link} >Project Link</Link></h4><Link to={project.githubLink} ><GitHubIcon /></Link>
+      <h4><a href={project.link} >Project Link</a></h4><a href={project.githubLink} ><GitHubIcon /></a>
     </div>
   );
 }

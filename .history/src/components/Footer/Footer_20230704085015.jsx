@@ -12,8 +12,8 @@ const Footer = () => {
       <div className="socialMedia">
         <Link to='https://www.instagram.com/shepota68' ><InstagramIcon /></Link>
         <Link to='https://www.facebook.com/lola.shepota' ><FacebookIcon /></Link>
-        <Link to='https://www.linkedin.com/in/lola-s-2aba6340-lo' ><LinkedInIcon /></Link>
-        <Link to='https://github.com/LolaSL' ><GitHubIcon /></Link>
+        <Link href='https://www.linkedin.com/in/lola-s-2aba6340-lo' ><LinkedInIcon /></Link>
+        <Link href='https://github.com/LolaSL' ><GitHubIcon /></Link>
       </div>
       <div className="copyright">
         <p>&copy; {new Date().getFullYear()} Copyright: React-Portfolio</p>

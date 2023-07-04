@@ -15,7 +15,7 @@ function ProjectDetail() {
       <h3>
         <b>Skills:</b> {project.skills}
       </h3>
-      <h4><Link to={project.link} >Project Link</Link></h4><Link to={project.githubLink} ><GitHubIcon /></Link>
+      <h4><Link to={project.link} >Project Link</Link></h4><Link href={project.githubLink} ><GitHubIcon /></Link>
     </div>
   );
 }
