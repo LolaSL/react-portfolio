@@ -16,9 +16,9 @@ export const ProjectList = [
   {
     name: "TODO List",
     image: Project2,
-    skills: "HTML, CSS and JavaScript, Git and GitHub",
-    link: "https://todo-list-from-me.netlify.app",
-    githubLink: "https://github.com/LolaSL/todo-list"
+    skills: "React, HTML, CSS, HTTP Requests and Responses, Git and GitHub, (Client part - front-end).  ",
+    link: "https://todo-list-from-me.netlify.app,
+    githubLink: "https://github.com/LolaSL/jamming-app"
   },
   {
     name: "Demo Art Gallery",
