@@ -36,11 +36,11 @@ export const ProjectList = [
     githubLink: "https://github.com/LolaSL/reddit-client"
   },
   {
-    name: "Hotel Finder & Blog ",
+    name: "Movie-Bit",
     image: Project5,
-    skills: "React hooks, Bootstrap, React Api-Context, React-Redux,  React Router, PostgreSQL, Node.js (Full Stack)",
-    link: "https://hotel-finder-and-blog.netlify.app",
-    githubLink: "https://github.com/LolaSL/hotel-finder-and-blog"
+    skills: "React, SCSS, Redux Toolkit, SCSS, Redux, TMBD API, Git and GitHub, Jest, (Client part - front-end).",
+    link: "https://movie-bit.netlify.app",
+    githubLink: "https://github.com/LolaSL/movie-bit"
   },
   {
     name: "Arts Shop",
@@ -50,10 +50,10 @@ export const ProjectList = [
     githubLink: "https://github.com/LolaSL/ecommerce-application"
   },
   {
-    name: "Movie-Bit",
+    name: "Hotel Finder & Blog ",
     image: Project7,
-    skills: "React, SCSS, Redux Toolkit, SCSS, Redux, TMBD API, Git and GitHub, Jest, (Client part - front-end).",
-    link: "https://movie-bit.netlify.app",
-    githubLink: "https://github.com/LolaSL/movie-bit"
+    skills: "React hooks, Bootstrap, React Api-Context, React-Redux,  React Router, PostgreSQL (Full Stack)",
+    link: "https://ecommerce-application-8erm.onrender.com",
+    githubLink: "https://github.com/LolaSL/ecommerce-application"
   },
 ];

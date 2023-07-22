@@ -43,17 +43,18 @@ export const ProjectList = [
     githubLink: "https://github.com/LolaSL/hotel-finder-and-blog"
   },
   {
-    name: "Arts Shop",
-    image: Project6,
-    skills: "React hooks, Bootstrap, React Api-Context, React Router, Webpack, NPM (basics), Mongo DB, Node.js, (Full Stack)",
-    link: "https://ecommerce-application-8erm.onrender.com",
-    githubLink: "https://github.com/LolaSL/ecommerce-application"
-  },
-  {
     name: "Movie-Bit",
     image: Project7,
     skills: "React, SCSS, Redux Toolkit, SCSS, Redux, TMBD API, Git and GitHub, Jest, (Client part - front-end).",
     link: "https://movie-bit.netlify.app",
     githubLink: "https://github.com/LolaSL/movie-bit"
   },
+  {
+    name: "Arts Shop",
+    image: Project6,
+    skills: "React hooks, Bootstrap, React Api-Context, React Router, Webpack, NPM (basics), Mongo DB, Node.js, (Full Stack)",
+    link: "https://ecommerce-application-8erm.onrender.com",
+    githubLink: "https://github.com/LolaSL/ecommerce-application"
+  }
+
 ];

@@ -48,7 +48,7 @@ export const ProjectList = [
     skills: "React hooks, Bootstrap, React Api-Context, React Router, Webpack, NPM (basics), Mongo DB, Node.js, (Full Stack)",
     link: "https://ecommerce-application-8erm.onrender.com",
     githubLink: "https://github.com/LolaSL/ecommerce-application"
-  },
+  }
   {
     name: "Movie-Bit",
     image: Project7,
