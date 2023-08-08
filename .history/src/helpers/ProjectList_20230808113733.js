@@ -1,6 +1,8 @@
-
+import Project1 from "../assets/project1.png";
+import Project2 from "../assets/project2.png";
 import Project3 from "../assets/project3.png";
 import Project4 from "../assets/project4.png";
+// import Project5 from "../assets/project5.png";
 import Project6 from "../assets/project6.png";
 import Project7 from "../assets/project7.png";
 
@@ -19,6 +21,13 @@ export const ProjectList = [
     link: "https://reddit-client-mini.netlify.app",
     githubLink: "https://github.com/LolaSL/reddit-client"
   },
+  // {
+  //   name: "Hotel Finder & Blog ",
+  //   image: Project5,
+  //   skills: "React hooks, Bootstrap, React Api-Context, React-Redux,  React Router, PostgreSQL, Node.js (Full Stack)",
+  //   link: "https://hotel-finder-and-blog.netlify.app",
+  //   githubLink: "https://github.com/LolaSL/hotel-finder-and-blog"
+  // },
   {
     name: "Arts Shop",
     image: Project6,
