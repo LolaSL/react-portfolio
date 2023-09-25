@@ -39,8 +39,8 @@ export const ProjectList = [
     name: "My Blogs",
     image: Project8,
     skills: "React hooks, MUI Material, React-Redux, Reduxjs/toolkit, React Router, Axios, NPM (basics), Mongo DB, Node.js, (Full Stack)",
-    link: "https://mern-my-blogs.onrender.com",
-    githubLink: "https://github.com/LolaSL/myBlogs"
+    link: "https://ecommerce-application-8erm.onrender.com",
+    githubLink: "https://github.com/LolaSL/ecommerce-application"
   },
   {
     name: "Movie-Bit",
