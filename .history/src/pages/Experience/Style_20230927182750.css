@@ -1,0 +1,53 @@
+.experience{
+    color: #1e3183;
+ 
+}
+ .vertical-timeline-element--education h3{
+    font-size:30px;
+    border-color: black;
+
+} 
+.vertical-timeline-element-date{
+   color:white;
+   font-size: 20px
+
+} 
+
+.vertical-timeline-element--work h3{
+    font-size: 30px;
+}
+@media only screen and (max-width: 1360px) {
+    .vertical-timeline-element--education h3{
+        font-size: 28px;
+    }
+    .vertical-timeline-element--work h3{
+        font-size: 28px;
+    }
+    .vertical-timeline-element-date{
+        color: white;
+    }
+}
+  @media only screen and (max-width: 1170px) {
+    .vertical-timeline-element--education h3{
+        font-size: 26px;
+    }
+    .vertical-timeline-element--work h3{
+        font-size: 26px;
+    }
+    .vertical-timeline-element-date{
+        color: black;
+    }
+    }
+  
+
+  @media only screen and (max-width: 600px) {
+    .vertical-timeline-element--education h3{
+        font-size:24px;
+    }
+    .vertical-timeline-element--work h3{
+        font-size:24px;
+    }
+    .vertical-timeline-element-date{
+        color: black;
+    }
+} 

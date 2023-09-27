@@ -1,0 +1,38 @@
+.experience{
+    color: #1e3183;
+ 
+}
+ .vertical-timeline-element--education h3{
+    font-size:30px;
+    border-color: black;
+    color: white;
+} 
+  .vertical-timeline-element--work h3{
+    font-size: 30px;
+}
+@media only screen and (max-width: 1300px) {
+    .vertical-timeline-element--education h3{
+        font-size: 28px;
+    }
+    .vertical-timeline-element--work h3{
+        font-size: 28px;
+    }
+}
+  @media only screen and (max-width: 800px) {
+    .vertical-timeline-element--education h3{
+        font-size: 26px;
+    }
+    .vertical-timeline-element--work h3{
+        font-size: 26px;
+    }
+    }
+  
+
+  @media only screen and (max-width: 600px) {
+    .vertical-timeline-element--education h3{
+        font-size:24px;
+    }
+    .vertical-timeline-element--work h3{
+        font-size:24px;
+    }
+} 

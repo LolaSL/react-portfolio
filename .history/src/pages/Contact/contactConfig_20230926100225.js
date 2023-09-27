@@ -1,0 +1,4 @@
+const contactConfig = {
+    description: ""
+}
+export{}

@@ -1,0 +1,9 @@
+.projectItem{
+    background: #ede7e7;
+}
+.projectItem h1{
+    color: grey;
+}
+.bgImage{
+    border-radius: 18px;
+}
