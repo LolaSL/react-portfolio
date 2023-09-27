@@ -8,7 +8,7 @@ const Home = () => {
       <div className="about">
         <h1 className="home-title"> Hi, My Name is Lola Shepota</h1>
         <div className="prompt">
-          <p className="prompt-paragraph">
+          <p className="propt-parafpa">
              I'm Highly motivated, passionate
             coder, self-taught, fast-learning, and a team player with deep
             loyalty, dedication, and hardworking ethics. I love to contribute my

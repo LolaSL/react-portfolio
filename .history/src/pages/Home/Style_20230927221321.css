@@ -30,20 +30,17 @@
   .about h4{
     font-size: 20px;
   }
- .prompt {
+  .about .prompt {
     width: 50%;
     font-size: 30px;
   }
-  .prompt-paragraph {
+   .prompt p {
     font-size: 24px;
     text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 35px;
-    padding:10px;
+    padding:20px;
    }
-   .email {
-    margin-bottom: 20px;
-  }
   .skills {
     font-size: 35px;
     width: 100%;
@@ -91,6 +88,7 @@
       .home-title {
         font-size: 57px;
         padding:25px;
+        margin-top: 100px;
       }
       .about h2 {
         font-size: 48px;

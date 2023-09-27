@@ -30,8 +30,8 @@
   .about h4{
     font-size: 20px;
   }
- .prompt {
-    width: 50%;
+  .about .prompt {
+    width: 60%;
     font-size: 30px;
   }
   .prompt-paragraph {
@@ -39,7 +39,7 @@
     text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 35px;
-    padding:10px;
+    padding:20px;
    }
    .email {
     margin-bottom: 20px;
