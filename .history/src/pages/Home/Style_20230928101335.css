@@ -117,12 +117,7 @@
   .about h2 {
     font-size: 38px;
   }  
-  .prompt-paragraph {
-    font-size: 21px;
-    text-align: justify;
-    line-height: 30px;
-    padding: 8px;
-  }
+  
   .skills h2 {
     font-size: 34px;
     margin-bottom: 24px;
@@ -150,7 +145,8 @@
   .prompt-paragraph {
     font-size: 18px;
     text-align: justify;
-    line-height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
     padding: 6px;
   }
   .skills {
