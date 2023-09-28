@@ -58,8 +58,8 @@ svg {
     max-width: 500px;
     border-radius: 8px;
   }
-  .title {
-    font-size:35px;
+  .project h1 {
+    font-size: 1.8rem;
   }
   .project h3 {
     font-size: 1.4rem;
@@ -71,8 +71,10 @@ svg {
     max-width: 374px;
     border-radius: 6px;
   }
-  .title {
-    font-size:28px;
+  .project h1 {
+    font-size:37px;
+    text-align: center;
+    color: white;
   }
   .project h3 {
     font-size: 1.3rem;

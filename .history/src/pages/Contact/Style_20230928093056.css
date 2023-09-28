@@ -76,4 +76,8 @@ form {
  .title {
       font-size:28px;
     }
+    .projectItem h1 {
+      font-size: 22px;
+      margin-top: 30px;
+    }
   }

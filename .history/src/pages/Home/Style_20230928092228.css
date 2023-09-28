@@ -98,14 +98,6 @@
   .about h2 {
     font-size: 48px;
   }
-  .skills h2 {
-    font-size: 40px;
-    margin-bottom: 20px;
-  }
-  .skills h3 {
-    font-size: 22px;
-    margin-top: 40px;
-  }
 }
 
 @media only screen and (max-width: 800px) {
@@ -115,15 +107,6 @@
   }
   .about h2 {
     font-size: 38px;
-  }  
-  
-  .skills h2 {
-    font-size: 34px;
-    margin-bottom: 24px;
-  }
-  .skills h3 {
-    font-size: 22px;
-    margin-top: 28px;
   }
 }
 

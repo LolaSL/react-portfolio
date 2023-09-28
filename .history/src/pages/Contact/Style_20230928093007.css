@@ -17,6 +17,7 @@ form {
   color: white;
   font-size:40px;
   font-weight: bolder;
+
 }
   input {
     width: 100%;
@@ -66,14 +67,4 @@ form {
     color: white;
     border: none;
   }
-  @media only screen and (max-width: 1300px) {
-    .title {
-      font-size:35px;
-    }
-  }
-
-  @media only screen and (max-width: 800px) {
- .title {
-      font-size:28px;
-    }
-  }
+  

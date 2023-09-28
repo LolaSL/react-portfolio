@@ -57,7 +57,10 @@
       grid-template-columns: 1fr 1fr;
     }
     .title {
-      font-size:35px;
+      text-align: center;
+      color: white;
+      font-size:28px;
+
     }
   }
   
@@ -71,7 +74,10 @@
       height: 300px;
     }
  .title {
+      text-align: center;
+      color: white;
       font-size:28px;
+
     }
     .projectItem h1 {
       font-size: 22px;

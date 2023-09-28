@@ -10,7 +10,7 @@ function ProjectDetail() {
   const project = ProjectList[id];
   return (
     <div className="card project">
-      <h1 className="title"> {project.name}</h1>
+      <h1 lca> {project.name}</h1>
       <img src={project.image} alt={project.name} />
       <h3>
         <b>Skills:</b> {project.skills}

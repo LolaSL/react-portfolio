@@ -58,6 +58,7 @@
     }
     .title {
       font-size:35px;
+
     }
   }
   
@@ -71,6 +72,8 @@
       height: 300px;
     }
  .title {
+      text-align: center;
+      color: white;
       font-size:28px;
     }
     .projectItem h1 {

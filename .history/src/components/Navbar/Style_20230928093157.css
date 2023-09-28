@@ -70,10 +70,7 @@
   .navbar-nav {
     display: none;
   }
-  .navbar-logo {
-    font-size: 0.7rem;
-    font-weight: bold;
-  }
+  
 
   .open {
     display: flex;
