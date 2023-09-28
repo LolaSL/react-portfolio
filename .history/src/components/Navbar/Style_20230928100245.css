@@ -41,7 +41,7 @@
 .nav-link {
   text-decoration: none;
   color: white;
-  font-size: 20px;
+  font-size: 1rem;
   transition: color 0.3s ease;
 }
 
@@ -74,11 +74,5 @@
 
   .open {
     display: flex;
-  }
-  .nav-link {
-    text-decoration: none;
-    color: white;
-    font-size: 16px;
-    transition: color 0.3s ease;
   }
 }
