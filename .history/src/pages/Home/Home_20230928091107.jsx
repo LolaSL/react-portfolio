@@ -17,6 +17,8 @@ const Home = () => {
         </div>
         <h4 className="email"> email: lolashepota@gmail.com</h4>
       </div>
+      {/* <br />
+      <hr /> */}
       <div className="skills">
         <h2> Skills</h2>
         <ol className="list">
